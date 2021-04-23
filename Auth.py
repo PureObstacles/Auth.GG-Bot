@@ -2,6 +2,8 @@
 #pip3 install PyAuthGG
 #pip3 install requests
 
+#I'll be doing more to this bot very soon. Just haven't had the time to bother with it.
+
 import PyAuthGG
 import json
 import requests
